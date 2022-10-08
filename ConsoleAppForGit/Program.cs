@@ -8,6 +8,7 @@ namespace ConsoleAppForGit
         {
             Console.WriteLine("Hello World!");
             int i = 5;
+            int p = 10;
         }
     }
 }
